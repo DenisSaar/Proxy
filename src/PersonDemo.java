@@ -2,12 +2,12 @@
 public class PersonDemo{
 
     public static void main(String []args){
-        Person WillSmith = new Person("Will Smith","New York","2936729462846") ;
-        WillSmith.printInfo();
-        Person JackieChan = new Person("Jackie Chan","Shanghai" ,"12312412412") ;
-        JackieChan.printInfo();
-        Person SherlockHolmes = new Person("Sherlock Holmes","London","37742123513");
-        SherlockHolmes.printInfo();
+        Person willSmith = new Person("Will Smith","New York","2936729462846") ;
+        willSmith.printInfo();
+        Person jackieChan = new Person("Jackie Chan","Shanghai" ,"12312412412") ;
+        jackieChan.printInfo();
+        Person sherlockHolmes = new Person("Sherlock Holmes","London","37742123513");
+        sherlockHolmes.printInfo();
 
 
     }
